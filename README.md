@@ -60,6 +60,10 @@ connet-session-sequalize
 ## GitHub URL
 
 
+## License 
+ISC
+
+
 
 
 
