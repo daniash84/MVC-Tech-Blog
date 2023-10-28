@@ -52,6 +52,7 @@ MySQL
 dotenv package
 espress-sessions
 connet-session-sequalize
+bcrypt
 
 
 ## Heroku Deployment 
