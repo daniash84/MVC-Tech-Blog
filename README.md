@@ -31,6 +31,8 @@ https://tech-blog-mvc-dl-dfbd701e94ca.herokuapp.com/
 ## GitHub URL
 https://github.com/daniash84/MVC-Tech-Blog
 
+https://daniash84.github.io/MVC-Tech-Blog/
+
 ## License 
 ISC
 
